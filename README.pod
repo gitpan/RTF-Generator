@@ -1,0 +1,31 @@
+
+# $Id: README.pod,v 1.1.1.1 2001/03/30 23:40:00 rrwo Exp $
+
+=pod
+
+=head1 NAME
+
+RTF::Generator - a package for generating RTF::Documents in Perl
+
+=head1 DESCRIPTION
+
+This is an experimental module.
+
+=head1 KNOWN ISSUES
+
+=head2 Bugs
+
+=head2 Missing Features
+
+=head1 AUTHOR
+
+Robert Rothenberg <rrwo@cpan.org>
+
+=head1 LICENSE
+
+Copyright (c) 1999-2001 Robert Rothenberg. All rights reserved.
+This program is free software; you can redistribute it and/or
+modify it under the same terms as Perl itself.
+
+=cut
+

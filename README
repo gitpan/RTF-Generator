@@ -1,0 +1,14 @@
+NAME
+    RTF::Generator - a package for generating RTF::Documents in Perl
+
+DESCRIPTION
+    This is an experimental module.
+
+AUTHOR
+    Robert Rothenberg <rrwo@cpan.org>
+
+LICENSE
+    Copyright (c) 1999-2001 Robert Rothenberg. All rights reserved. This
+    program is free software; you can redistribute it and/or modify it under
+    the same terms as Perl itself.
+
